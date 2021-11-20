@@ -1,3 +1,3 @@
-![Dino Intro](dino_introduction.gif)
+![Dino Intro](dino_introuction.gif)
 
 ***HI***
