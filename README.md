@@ -1,1 +1,2 @@
-Hello, I'm An
+Annnnn
+![Dino Intro](dino_intro.gif)
