@@ -8,5 +8,5 @@ ___
 
 <div align='center' style='display: flex; flex-direction: row'>
  <img style='display: block' alt="HuuAnnnn's GitHub stat" src='https://github-readme-stats.vercel.app/api?username=HuuAnnnn&show_icons=true&theme=react' />
- <img style='display: block' src='https://github-readme-stats.vercel.app/api/top-langs/?username=HuuAnnnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats' />
+ [comment]: <> <img style='display: block' src='https://github-readme-stats.vercel.app/api/top-langs/?username=HuuAnnnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats' />
 </div>
