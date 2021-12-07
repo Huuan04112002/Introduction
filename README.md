@@ -6,7 +6,7 @@
 
 ___
 
-<div align='center'>
+<div align='center' style='float: lef'>
  <img style='width: 50%' alt="HuuAnnnn's GitHub stat" src='https://github-readme-stats.vercel.app/api?username=HuuAnnnn&show_icons=true&theme=react' /></div>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <img style='width: 50%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats' />
 </div>
