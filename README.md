@@ -1,6 +1,6 @@
 <h1 align='center'>Hi, I'm Annnn</h1>
 
-<p align="center">
+<p align="center" style='display: block;'>
   <img src="cat_intro.gif" />
 </p>
 
