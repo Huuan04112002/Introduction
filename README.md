@@ -3,4 +3,4 @@
 <p align="center">
   <img src="cat_intro.gif" />
 </p>
-![HuuAnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuuAnnnn&show_icons=true&theme=radical)
+![HuuAnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuuAnnnn&show_icons=true&theme=react)
