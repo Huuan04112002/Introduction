@@ -1,7 +1,7 @@
 <h1 align='center'>Hi, I'm Annnn</h1>
 
 <p align="center">
-  <img src="cat_intro.gif" />
+  <img style='width: 100%' src="cat_intro.gif" />
 </p>
 
 <div align='center'>
