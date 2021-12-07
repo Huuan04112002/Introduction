@@ -1,3 +1,5 @@
 # Hi, I'm Annnn
 
-![Dino Intro](cce.gif)
+<div style='width=50%; height = 50%'>
+  ![Dino Intro](cce.gif)
+</div>
