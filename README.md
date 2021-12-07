@@ -1,3 +1,3 @@
-<div style="text-align: center"> HI, I'm Annn </div>
+###Hi, I'm Annnn
 
 ![Dino Intro](dino_introuction.gif)
