@@ -1,3 +1,3 @@
 # Hi, I'm Annnn
 
-![Dino Intro](dino_introuction.gif)
+![Dino Intro](cce.gif)
