@@ -1,3 +1,3 @@
-<div style="text-align: justify"> <h1> Hi, I'm Annnn </h1> </div>
+<div style="text-align: justify"> Hi, I'm Annnn </div>
 
 ![Dino Intro](dino_introuction.gif)
