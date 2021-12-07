@@ -5,5 +5,5 @@
 </p>
 
 <div align='center'>
-  <img style='width: 100%' alt="HuuAnnnn's GitHub stat" src='https://github-readme-stats.vercel.app/api?username=HuuAnnnn&show_icons=true&theme=react' />
+  <img style='width: 50%' alt="HuuAnnnn's GitHub stat" src='https://github-readme-stats.vercel.app/api?username=HuuAnnnn&show_icons=true&theme=react' />
 </div>
