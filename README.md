@@ -3,7 +3,9 @@
 <p align="center">
  <img src="cat_intro.gif" />
 </p>
+
 ___
+
 <div align='center'>
  <img style='width: 50%' alt="HuuAnnnn's GitHub stat" src='https://github-readme-stats.vercel.app/api?username=HuuAnnnn&show_icons=true&theme=react' /></div>
 </div>
