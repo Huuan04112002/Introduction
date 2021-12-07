@@ -1,2 +1,5 @@
 # Hi, I'm Annnn
-![Introduce](cat_intro.gif)
+
+<p align="center">
+  <img src="cat_intro.gif" />
+</p>
