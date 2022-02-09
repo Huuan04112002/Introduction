@@ -1,4 +1,4 @@
-<h1 align='center'>Hi, I'm Annnn</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=35&center=true&lines=Hi%2C+I'm+HuuAnnnn)](https://git.io/typing-svg)
 
 <p align="center">
  <img src="cat_intro.gif" />
