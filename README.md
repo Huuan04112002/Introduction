@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=200&duration=3000&color=A7E1F7&center=true&vCenter=true&width=1000&height=200&lines=HuuAnnnn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=100&duration=3000&center=true&vCenter=true&width=1000&height=200&lines=HuuAnnnn)](https://git.io/typing-svg)
 
 <p align="center">
  <img src="cat_intro.gif" />
