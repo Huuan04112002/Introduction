@@ -12,6 +12,8 @@ ___
 ### Development Statistic
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2054%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-650-blue)
 
 **🐱 My GitHub Data** 
@@ -53,13 +55,16 @@ Sunday       42 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 18 mins        ████████████████░░░░░░░░░   63.86% 
+Python                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
+JSON                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18% 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 01/04/2022 17:01:39 UTC
+ Last Updated on 01/04/2022 20:58:29 UTC
 <!--END_SECTION:waka-->
