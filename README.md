@@ -1,4 +1,4 @@
-<h3 align='center'>I'm HuuAnnnn</h3>
+<h1 align='center'>I'm HuuAnnnn</h1>
 <p align="center">
  <img src="cat_intro.gif" />
 </p>
