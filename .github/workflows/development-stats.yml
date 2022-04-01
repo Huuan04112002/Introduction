@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Realtime development statistic
 
 on:
   schedule:
