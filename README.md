@@ -12,7 +12,7 @@ ___
 ### Development Statistic
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -20,7 +20,7 @@ ___
 
 > 🏆 147 Contributions in the Year 2022
  > 
-> 📦 36.3 kB Used in GitHub's Storage 
+> 📦 36.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,5 +67,5 @@ VS Code                  35 hrs 45 mins      ███████████�
 ```
 
 
- Last Updated on 17/04/2022 13:03:17 UTC
+ Last Updated on 17/04/2022 16:26:29 UTC
 <!--END_SECTION:waka-->
