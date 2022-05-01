@@ -12,7 +12,7 @@ ___
 ### Development Statistic
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
@@ -32,5 +32,5 @@ VS Code                  31 hrs 39 mins      ███████████�
 ```
 
 
- Last Updated on 01/05/2022 08:42:48 UTC
+ Last Updated on 01/05/2022 08:54:21 UTC
 <!--END_SECTION:waka-->
