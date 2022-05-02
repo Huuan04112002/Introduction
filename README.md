@@ -14,7 +14,7 @@ ___
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -32,5 +32,5 @@ VS Code                  28 hrs 6 mins       ███████████�
 ```
 
 
- Last Updated on 02/05/2022 13:23:41 UTC
+ Last Updated on 02/05/2022 16:31:17 UTC
 <!--END_SECTION:waka-->
