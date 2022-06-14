@@ -4,9 +4,7 @@
 </p>
 
 ___
-
+[![](https://visitcount.itsvg.in/api?id=HuuAnnnn&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+___
 ### Certificates:
 >- *25/12/2021*: [TryHackMe ADC Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HKVVJOIWJA.png)
-
-___
-[![](https://visitcount.itsvg.in/api?id=HuuAnnnn&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
