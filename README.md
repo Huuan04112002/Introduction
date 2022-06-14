@@ -10,3 +10,4 @@ ___
 
 ___
 [![Visits Badge](https://badges.pufler.dev/visits/HuuAnnnn/HuuAnnnn)](https://badges.pufler.dev)
+<img src="https://readme-jokes.vercel.app/api?hideBorder&&color=#000" alt="Jokes Card" />
