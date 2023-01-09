@@ -11,14 +11,13 @@ LinkedIn       [An Nguyễn Hữu](https://www.linkedin.com/in/nguyenhuuan-it/)
 At the present, I'm a student studying Computer network and data communication. But, I'm interest in the field of AI, especially Computer Vision. I want to apply AI to a lot of field in the life.
 
 # Education
-*Ton Duc Thang University (2020 - now)*
-+ *Faculty: Information Technology*
-+ *Major: Computer network and data communication*
+### Ton Duc Thang University (2020 - now)
++ Faculty: *Information Technology*
++ Major: *Computer network and data communication*
 
 
 # Technical Skill
 + Programing languages: `Python`, `Java`
-+ Framework: `None`
 + Others: `Github`
 + Field of research:
     - Machine learning
