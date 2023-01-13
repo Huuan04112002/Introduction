@@ -3,8 +3,6 @@
 # Personal information
 Email          <nguyenhuuan.it@gmail.com>
 
-Github         [HuuAnnnn](https://github.com/HuuAnnnn)
-
 LinkedIn       [An Nguyễn Hữu](https://www.linkedin.com/in/nguyenhuuan-it/)
 
 # Summary
