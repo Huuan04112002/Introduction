@@ -22,7 +22,7 @@ At the present, I'm a student studying Computer network and data communication. 
 + Field of research:
     - Machine learning
     - Computer vision
-    - IoT Technology
+    - Natural Language Processing
 
 # Language
 **English**: B1
