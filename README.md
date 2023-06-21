@@ -1,4 +1,5 @@
 <h1 align='center'>Nguyen Huu An</h1>
+<h3 align='center'>Find a solution better than just code</h3>
 
 # Personal information
 Email          <nguyenhuuan.it@gmail.com>
@@ -11,17 +12,21 @@ Kaggle        [annnnguyen](https://www.kaggle.com/annnnguyen)
 At the present, I'm a student studying Computer network and data communication. But, I'm interest in the field of AI, especially Computer Vision. I want to apply AI to a lot of field in the life.
 
 # Education
+## Bachelor
 ### Ton Duc Thang University (2020 - now)
 + Faculty: *Information Technology*
 + Major: *Computer network and data communication*
-
+## Master (4 + 1 Program)
+### Ton Duc Thang University (2023 - now)
++ Faculty: *Information Technology*
++ Major: *Computer science*
 
 # Technical Skill
-+ Programing languages: `Python`, `Java`
++ Programming languages: `Python`, `Java`
++ Framework: `Tensorflow 2.0`, `FastAPI`
 + Others: `Github`
 + Field of research:
     - Machine learning
-    - Computer vision
     - Natural Language Processing
 
 # Language
@@ -31,7 +36,7 @@ At the present, I'm a student studying Computer network and data communication. 
 >- *25/12/2021*: [TryHackMe ADC Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HKVVJOIWJA.png)
 >- *29/12/2022*: [Hackerank Certification](https://hackerrank.com/certificates/c3963cfc95f1)
 >- *11/04/2023*: [Couresa - Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/certificate/PT7XSFWLJVH9)
->- *15/05/2023*: [Techbase - Agile Scrum ceritificates](certificates/TechBase Certificate_1.jpg)
+>- *15/05/2023*: [Techbase - Agile Scrum ceritificates](./certificates/TechBase%20Certificate_1.jpg)
 ___
 
 <p align="center">
