@@ -9,7 +9,7 @@ LinkedIn       [An Nguyễn Hữu](https://www.linkedin.com/in/nguyenhuuan-it/)
 Kaggle        [annnnguyen](https://www.kaggle.com/annnnguyen)
 
 # Summary
-At the present, I'm a student studying Computer network and data communication. But, I'm interest in the field of AI, especially Computer Vision. I want to apply AI to a lot of field in the life.
+At present, I'm a student studying Computer networks and data communication. But, I'm interested in the field of AI, especially Computer Vision. I want to apply AI to a lot of areas in life.
 
 # Education
 ## Bachelor
@@ -23,10 +23,11 @@ At the present, I'm a student studying Computer network and data communication. 
 
 # Technical Skill
 + Programming languages: `Python`, `Java`
-+ Framework: `Tensorflow 2.0`, `FastAPI`
++ Framework: `TensorFlow 2.0`, `FastAPI`
 + Others: `Github`
 + Field of research:
     - Machine learning
+    - Graph Neural Network
     - Natural Language Processing
 
 # Language
