@@ -35,12 +35,10 @@
 
 ###
 
-**Ton Duc Thang University (2020 - Now)**
-
-###
-
-+ Faculty: Information Technology<br>
-+ Major: Computer network and data communication</p>
+>**Ton Duc Thang University (2020 - Now)**
+>+ **Faculty**: Information Technology<br>
+>+ **Major**: Computer network and data communication</p>
+>
 
 ###
 
@@ -48,12 +46,9 @@
 
 ###
 
-**Ton Duc Thang University (2023 - Now)**
-
-###
-
-+ Faculty: Information Technology<br>
-+ Major: Computer science</p>
+>**Ton Duc Thang University (2023 - Now)**
+>+ **Faculty**: Information Technology<br>
+>+ **Major**: Computer science</p>
 
 ###
 
