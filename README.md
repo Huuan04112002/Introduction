@@ -6,11 +6,14 @@
 
 ###
 
-<h4 align="left">Find a solution better than just code</h4>
+<h3 align="left">❝Find a solution better than just code❞</h4>
 
 ###
 
-<p align="left">At present, I'm a student studying Computer networks and data communication. But, I'm interested in the field of AI, especially Computer Vision. I want to apply AI to a lot of areas in life.</p>
+<p align="left">
+    <b>At present, I'm a student studying Computer networks and data communication. But, I'm interested in the field of AI, especially Computer Vision. I want to apply AI to a lot of areas in life.
+    </b>
+</p>
 
 ###
 
@@ -18,7 +21,9 @@
 
 ###
 
-<p align="left">Email: nguyenhuuan.it@gmail.com<br>LinkedIn : An Nguyễn Hữu<br>Kaggle: annnnguyen</p>
+**Email**: [nguyenhuuan.it@gmail.com](nguyenhuuan.it@gmail.com) <br>
+**LinkedIn** : [An Nguyễn Hữu](https://www.linkedin.com/in/nguyenhuuan-it/)<br>
+**Kaggle**: [annnnguyen](https://www.kaggle.com/annnnguyen)
 
 ###
 
@@ -30,11 +35,12 @@
 
 ###
 
-<p align="left">Ton Duc Thang University (2020 - Now)</p>
+**Ton Duc Thang University (2020 - Now)**
 
 ###
 
-<p align="left">Faculty: Information Technology<br>Major: Computer network and data communication</p>
++ Faculty: Information Technology<br>
++ Major: Computer network and data communication</p>
 
 ###
 
@@ -42,11 +48,12 @@
 
 ###
 
-<p align="left">Ton Duc Thang University (2023 - Now)</p>
+**Ton Duc Thang University (2023 - Now)**
 
 ###
 
-<p align="left">Faculty: Information Technology<br>Major: Computer science</p>
++ Faculty: Information Technology<br>
++ Major: Computer science</p>
 
 ###
 
@@ -54,7 +61,9 @@
 
 ###
 
-<p align="left">Graph neural network<br>Machine learning<br>Traffic forecasting</p>
++ Graph neural network<br>
++ Machine learning<br>
++ Traffic forecasting</p>
 
 ###
 
@@ -84,7 +93,10 @@
 
 ###
 
-<p align="left">25/12/2021: TryHackMe ADC Certification<br>29/12/2022: Hackerank Certification<br>11/04/2023: Coursera - Introduction to Artificial Intelligence (AI)<br>15/05/2023: Techbase - Agile Scrum ceritificates</p>
+>- 25/12/2021: [TryHackMe ADC Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HKVVJOIWJA.png)
+>- 29/12/2022: [Hackerank Certification](https://hackerrank.com/certificates/c3963cfc95f1)
+>- 11/04/2023: [Couresa - Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/certificate/PT7XSFWLJVH9)
+>- 15/05/2023: [Techbase - Agile Scrum ceritificates](./certificates/TechBase%20Certificate_1.jpg)
 
 ###
 
