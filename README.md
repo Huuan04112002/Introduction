@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-    <b>At present, I'm a student studying Computer networks and data communication. But, I'm interested in the field of AI, especially Computer Vision. I want to apply AI to a lot of areas in life.
+    <b>At present, I'm a student studying Computer networks and data communication. But, I'm interested in the field of AI, especially Graph Neural Networks. I want to apply AI to a lot of areas in life.
     </b>
 </p>
 
