@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://raw.githubusercontent.com/HuuAnnnn/HuuAnnnn/main/cat_intro.gif"  />
+<img align="left" height="250" src="https://raw.githubusercontent.com/HuuAnnnn/HuuAnnnn/main/cat_intro.gif"  />
 
 ###
 
