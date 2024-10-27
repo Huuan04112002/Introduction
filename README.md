@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">"A little scorpion explores the universe in pursuit of extraordinary discoveries"</h3>
+<h4 align="left">"A little scorpion explores the universe in pursuit of extraordinary discoveries"</h4>
 
 ###
 
