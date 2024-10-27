@@ -2,17 +2,16 @@
 
 ###
 
-<h1 align="left">Hi 👋, I'm HuuAnnnn</h1>
+<h1 align="left">Nguyen Huu An</h1>
 
 ###
 
-<h3 align="left">❝Find a solution better than just code❞</h4>
+<h3 align="left">"A little scorpion explores the universe in pursuit of extraordinary discoveries"</h3>
 
 ###
 
 <p align="left">
-    <b>At present, I'm a student studying Computer networks and data communication. But, I'm interested in the field of AI, especially Graph Neural Networks. I want to apply AI to a lot of areas in life.
-    </b>
+    <b> I am a recent graduate from Vietnam with a passion for academic research. My main research field is Graph Neural Networks (GNNs) and their application to handle real-world problems. I am particularly interested in the class of problems related to Spatio-Temporal.</b>
 </p>
 
 ###
@@ -35,7 +34,7 @@
 
 ###
 
->**Ton Duc Thang University (2020 - Now)**
+>**Ton Duc Thang University (2020 - 2024)**
 >+ **Faculty**: Information Technology<br>
 >+ **Major**: Computer network and data communication</p>
 >
@@ -46,7 +45,7 @@
 
 ###
 
->**Ton Duc Thang University (2023 - Now)**
+>**Ton Duc Thang University (2023 - 2024)**
 >+ **Faculty**: Information Technology<br>
 >+ **Major**: Computer science</p>
 
@@ -56,9 +55,10 @@
 
 ###
 
-+ Graph neural network<br>
-+ Machine learning<br>
-+ Traffic forecasting</p>
++ Graph Neural Network<br>
++ Spatio-Temporal Graph Neural Networks<br>
++ Traffic Forecasting<br>
++ Hypergraph</p>
 
 ###
 
