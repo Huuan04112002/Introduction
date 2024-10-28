@@ -1,5 +1,3 @@
-<img align="left" height="250" src="https://raw.githubusercontent.com/HuuAnnnn/HuuAnnnn/main/cat_intro.gif"  />
-
 ###
 
 <h1 align="left">Nguyen Huu An</h1>
